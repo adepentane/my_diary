@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'https://my-ddairy.herokuapp.com/',
+    'my-ddairy.herokuapp.com/',
     '0.0.0.0',
     '127.0.0.1'
 ]
